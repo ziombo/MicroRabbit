@@ -35,7 +35,7 @@ namespace MicroRabbit.Banking.Api
             {
                 app.UseDeveloperExceptionPage();
             }
-
+//test
             app.UseHttpsRedirection();
 
             app.UseRouting();
